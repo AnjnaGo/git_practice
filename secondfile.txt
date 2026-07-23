@@ -1,3 +1,4 @@
 this si test v1
 this sis v2
-conflict 1
+conflict 2
+
